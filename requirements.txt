@@ -1,4 +1,4 @@
 -i https://pypi.org/simple
-cryptography==2.9
+cryptography==3.2
 idna==2.9
 pyOpenSSL==2.20
